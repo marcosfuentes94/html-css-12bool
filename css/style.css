@@ -1,1 +1,26 @@
+/* BOX */
+.box{
+   width: 100%;
+   padding: 20px;
+   background-color: blue;
+   color: white;
+   border: solid 1px white;
+   text-align: center;
+   display: flex;
+   justify-content: center;
 
+}
+.nested-box{
+   width: 100%;
+   padding: 10px;
+   background-color: lightgreen;
+   color: white;
+   border: solid 1px white;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+}
+
+.margin{
+   margin-bottom: 20px;
+}

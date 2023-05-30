@@ -98,7 +98,7 @@ COLUMNS
  /* 
 OFFSETS
  */
- 
+
  .col-offset-0{
     margin-left: calc((100% / 12) * 0);
  }
